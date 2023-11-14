@@ -1,0 +1,118 @@
+.flex {
+  display: flex;
+}
+
+.flex-d {
+  flex-direction: column;
+}
+
+.j-c {
+  justify-content: center;
+}
+
+.align-items {
+  align-items: center;
+}
+.line-35 {
+  line-height: 35px;
+}
+.line {
+  line-height: 60px;
+}
+
+.color-f {
+  color: #fff;
+}
+
+.b-r-38 {
+  border-radius: 38px;
+}
+.color-b {
+  color: #bfbfbf;
+}
+
+.color-7f {
+  color: #7f8698;
+}
+
+.color-34 {
+  color: #34394c;
+}
+
+.color-29 {
+  color: #297176;
+}
+.color-a2 {
+  color: #a2a5ad;
+}
+
+.color-9 {
+  color: #969dad;
+}
+
+.color-58 {
+  color: #589195;
+}
+.color-70 {
+  color: #707686;
+}
+
+.color-5b {
+  color: #5b6075;
+}
+.gap-10 {
+  gap: 10px;
+}
+
+.gap-20 {
+  gap: 20px;
+}
+
+.gap-30 {
+  gap: 30px;
+}
+.gap-118 {
+  gap: 118px;
+}
+
+.gap-150 {
+  gap: 150px;
+}
+
+.w-h-xl {
+  width: 24px;
+  height: 28px;
+}
+
+.w-h-s {
+  width: 12px;
+  height: 28px;
+}
+.w-h-l {
+  width: 11px;
+  height: 28px;
+}
+
+.text-l {
+  text-decoration: line-through;
+}
+.text-u {
+  text-decoration: underline;
+}
+
+.margin-t-40 {
+  margin-top: 40px;
+}
+
+.w-h-f {
+  width: 311px;
+  height: 125px;
+  flex-shrink: 0;
+  line-height: 50px; /* 125% */
+}
+.m-l-167 {
+  margin-left: 167px;
+}
+.m-t-17 {
+  margin-top: 17px;
+}

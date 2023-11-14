@@ -1,0 +1,255 @@
+.icon-vector {
+  background-image: url(../icon/Vector.svg);
+  width: 9.917px;
+  height: 5.413px;
+  flex-shrink: 0;
+  fill: #6a7087;
+  margin-top: 12px;
+}
+
+.icon-search {
+  background-image: url(../icon/search.svg);
+  width: 22.022px;
+  height: 22.022px;
+  flex-shrink: 0;
+  fill: #1b2858;
+}
+
+.icon-person {
+  background-image: url(../icon/person.svg);
+  width: 19.387px;
+  height: 20.788px;
+  flex-shrink: 0;
+}
+
+.icon-sebet {
+  background-image: url(../icon/sebet.svg);
+  width: 26.012px;
+  height: 22.022px;
+  flex-shrink: 0;
+}
+
+.icon-ellipse {
+  background-image: url(../icon/Ellipse-1.svg);
+  width: 15px;
+  height: 15px;
+  flex-shrink: 0;
+  fill: #f04726;
+  margin-left: -50px;
+  margin-top: -5px;
+  display: inline-block;
+}
+
+.icon-three {
+  background-image: url(../icon/three.svg);
+  width: 88px;
+  height: 24px;
+  flex-shrink: 0;
+  display: inline-block;
+  margin-left: 190px;
+  margin-top: 200px;
+}
+
+.icon-shipping {
+  background-image: url(../icon/shipping.svg);
+  width: 69px;
+  height: 31.5px;
+  flex-shrink: 0;
+}
+
+.icon-returns {
+  background-image: url(../icon/return.svg);
+  width: 41.515px;
+  height: 54.253px;
+  flex-shrink: 0;
+}
+
+.icon-payments {
+  background-image: url(../icon/payments.svg);
+  width: 46px;
+  height: 34.331px;
+  flex-shrink: 0;
+}
+
+.icon-time {
+  background-image: url(../icon/time.svg);
+  width: 47.997px;
+  height: 48px;
+  flex-shrink: 0;
+}
+
+.icon-star5 {
+  background-image: url(../icon/Star-5.svg);
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  fill: #ffb400;
+  gap: 4px;
+  margin-top: 75px;
+}
+
+.icon-blue {
+  background-image: url(../icon/blue.svg);
+  width: 11px;
+  height: 11px;
+  flex-shrink: 0;
+  fill: #2ed0e7;
+}
+
+.icon-pink {
+  background-image: url(../icon/pink.svg);
+  width: 11px;
+  height: 11px;
+  flex-shrink: 0;
+  fill: #c399ad;
+}
+.icon-black {
+  background-image: url(../icon/black.svg);
+  width: 11px;
+  height: 11px;
+  flex-shrink: 0;
+  fill: #040404;
+}
+.icon-red {
+  background-image: url(../icon/red.svg);
+  width: 11px;
+  height: 11px;
+  flex-shrink: 0;
+  fill: #ba2828;
+}
+.icon-brown {
+  background-image: url(../icon/brown.svg);
+  width: 11px;
+  height: 11px;
+  flex-shrink: 0;
+  fill: #886652;
+}
+.icon-yellow {
+  background-image: url(../icon/yellow.svg);
+  width: 11px;
+  height: 11px;
+  flex-shrink: 0;
+  fill: #e2c048;
+}
+.icon-arrow-left {
+  width: 22px;
+  height: 22px;
+  flex-shrink: 0;
+  opacity: 0.7;
+  margin-left: 167px;
+  margin-top: 81px;
+  background-image: url(../icon/arrow-left.svg);
+}
+
+.icon-arrow-right {
+  width: 22px;
+  height: 22px;
+  flex-shrink: 0;
+  opacity: 0.7;
+  margin-top: 81px;
+  background-image: url(../icon/arrow-right.svg);
+}
+
+.icon-flat {
+  background-image: url(../icon/flat.svg);
+  width: 13.5px;
+  height: 26.5px;
+  flex-shrink: 0;
+  fill: #589195;
+  margin-top: -57px;
+  margin-left: 32px;
+}
+.icon-three-one {
+  width: 67px;
+  height: 17.937px;
+  flex-shrink: 0;
+  background-image: url(../icon/three-one.svg);
+  margin-left: 547px;
+  margin-top: 550px;
+}
+.icon-circle-little {
+  width: 104px;
+  height: 104px;
+  flex-shrink: 0;
+  fill: #deecec;
+  background-image: url(../icon/circle-little.svg);
+  margin-left: 925px;
+  display: inline-block;
+}
+
+
+.icon-adidas {
+  background-image: url(../icon/adidas.svg);
+  width: 77.924px;
+  height: 57.297px;
+  flex-shrink: 0;
+  fill: #c5cad9;
+}
+.icon-nike {
+  background-image: url(../icon/nike.svg);
+  width: 116.123px;
+  height: 42.018px;
+  flex-shrink: 0;
+  fill: #c5cad9;
+}
+.icon-puma {
+  width: 127.582px;
+  height: 51.186px;
+  flex-shrink: 0;
+  fill: #c5cad9;
+  stroke-width: 3.816px;
+  stroke: #c5cad9;
+  background-image: url(../icon/puma.svg);
+}
+
+.icon-gucci {
+  background-image: url(../icon/gucci.svg);
+  width: 81.744px;
+  height: 57.297px;
+  flex-shrink: 0;
+}
+
+.icon-message {
+  width: 14px;
+  height: 9px;
+  flex-shrink: 0;
+  background-image: url(../icon/message.svg);
+}
+
+.icon-instagram {
+  background-image: url(../icon/instagram.svg);
+  width: 15px;
+  height: 15px;
+  flex-shrink: 0;
+  fill: #7f8495;
+}
+.icon-facebook {
+  background-image: url(../icon/facebook.svg);
+  width: 17px;
+  height: 18px;
+  flex-shrink: 0;
+  fill: #7f8495;
+}
+.icon-twitter {
+  width: 17px;
+  height: 18px;
+  flex-shrink: 0;
+  fill: #7f8495;
+  background-repeat: no-repeat;
+  background-image: url(../icon/twitter.svg);
+}
+
+.icon-pin {
+  width: 11.345px;
+  height: 15px;
+  flex-shrink: 0;
+  background-image: url(../icon/pin.svg);
+}
+
+.icon-telephone {
+  width: 11px;
+  height: 11px;
+  flex-shrink: 0;
+  fill: #589195;
+  background-image: url(../icon/telephone.svg);
+}
