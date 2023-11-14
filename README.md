@@ -4,5 +4,4 @@ Welcome to the Fashion-Figma repository! This project aims to explore and showca
 
 
 
-# View
-![Screenshot 2023-11-14 155542](https://github.com/HuseynovaGulshan/Fashion-Figma/assets/133867459/476affe1-5476-4d21-9842-062e8ec838d0)
+
